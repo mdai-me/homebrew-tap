@@ -1,6 +1,6 @@
 cask "mdai" do
-  version "1.3.1"
-  sha256 "8903f9b9b657efa51623546fe6b2d91c6f585259a1d5836f1844e5ee37ba33d2"
+  version "1.3.2"
+  sha256 "79459374761d7b0926d2a0971376764840c51c222942080d34a4c13c6035d284"
 
   url "https://dl.mdai.me/mdai_#{version}_universal.dmg"
   name "mdai"
